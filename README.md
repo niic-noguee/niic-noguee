@@ -10,6 +10,8 @@
  *  -🧜🏼‍♀️Comecei a estudar programção com 10 anos
  *  -🕢Sou fascinada por programação desde os meus 10 anos e atualmente tenho me dedicado para ser uma dev back-end
  
+ ##### Ferramentas e tecnologias
+ 
  <div style="display: inline_block"><br>
   <img align="center" alt="Nicolly-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Nicolly-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
