@@ -1,11 +1,17 @@
-###  oiii!  meu nome é Nicolly
+##  oiii!  meu nome é Nicolly
 
-*  👩‍💻Atualmente programo em html, css e javascript 
-* 🌱Tenho me dedicado para me tornar uma DEV em back-end
+*  👩‍💻Atualmente programo em html, css e javascript
+* 🌱Tenho me dedicado para me tornar uma dev em back-end
 * 🤓Faço curso técnico de informática na EEEP Padre João Bosco de Lima
-* 🧟‍♀️Ela/dela
- 
- ##### Ferramentas e tecnologias
+* 🧟‍♀️Ela/dela 
+
+<div align="center">
+  <a href="https://github.com/Niicolly-nogueira">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=niicolly-nogueira&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=niicolly-nogueira&layout=compact&langs_count=7&theme=dracula"/>
+</div>
+
+ ### _Ferramentas e tecnologias_
  
  <div style="display: inline_block"><br>
   <img align="center" alt="Nicolly-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -17,7 +23,7 @@
 
 ##
 
-##### Estou aprendendo
+### _Estou aprendendo_
 
 <div style="display: inline_block"><br>
 <img align="center" alt="Nicolly-c#" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
@@ -27,6 +33,6 @@
  
  ##
  
- ##### Contatos
+ ### _Contatos_
  
  
