@@ -1,9 +1,8 @@
 ##  oiii!  meu nome é Nicolly
 
 *  👩‍💻Atualmente programo em html, css e javascript
-* 🌱Tenho me dedicado para me tornar uma dev em back-end
-* 🤓Faço curso técnico de informática na EEEP Padre João Bosco de Lima
-* 🧟‍♀️Ela/dela 
+* 🌱Estudando para ser dev em back-end
+* 🤓Faço curso técnico de informática na EEEP Padre João Bosco de Lima 
 
 <div align="center">
   <a href="https://github.com/Niicolly-nogueira">
