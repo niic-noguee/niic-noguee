@@ -1,6 +1,6 @@
 ##  oiii!  meu nome é Nicolly
 
-* 👩‍💻Atualmente programo em javascript, java e php
+* 👩‍💻Atualmente programo em javascript
 * 🌱Estudando back-end
 * 🤓Faço curso técnico de informática na EEEP Padre João Bosco de Lima 
 
