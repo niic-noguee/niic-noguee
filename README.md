@@ -1,4 +1,4 @@
-##  oiii!  meu nome é Nicolly
+##  oiii!  Eu sou a Nic💿
 
 * 🤓Faço curso técnico de informática na EEEP Padre João Bosco de Lima
 
