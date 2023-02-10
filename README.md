@@ -1,8 +1,6 @@
 ##  oiii!  meu nome é Nicolly
 
-* 👩‍💻Atualmente programo em javascript
-* 🌱Estudando back-end
-* 🤓Faço curso técnico de informática na EEEP Padre João Bosco de Lima 
+* 🤓Faço curso técnico de informática na EEEP Padre João Bosco de Lima
 
 <div align="center">
   <a href="https://github.com/Niicolly-nogueira">
@@ -21,14 +19,6 @@
 </div>
 
 ##
-
-### _Estou aprendendo_
-
-<div style="display: inline_block"><br>
- <img align="center" alt="Nicolly-nodejs" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" />
- </div>
- 
- ##
  
  ### _Contatos_
  
