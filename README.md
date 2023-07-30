@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=31055B&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FFFFFF&size=35&center=true&vCenter=true&width=1000&lines=What's+Up?;My+name+is+Nicolly+Nogueira;I'm+17+years+old;I'm+a+computer+technician;Be+Welcome!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FFFFFF&size=35&center=true&vCenter=true&width=1000&lines=What's+Up?;Me+chamo+Nicolly+Nogueira;Tenho+17+anos;Sou+técnica+de+infórmatica;Estou+aqui+para+organizar+e+divulgar+meus+projetos;Sinta-se+à+vontade+para+dar+uma+olhada)](https://git.io/typing-svg)
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=niic-noguee&bg_color=0d1117&color=a9b1c0&line=cfcfcf&point=9b7acd&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
