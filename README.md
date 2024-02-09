@@ -1,36 +1,49 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=31055B&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FFFFFF&size=35&center=true&vCenter=true&width=1000&lines=Hello👋;Welcome+to+my+GitHub+profile+<3)](https://git.io/typing-svg)
+## Hello World👋
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=niic-noguee&bg_color=0d1117&color=a9b1c0&line=cfcfcf&point=9b7acd&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="380px" max-width="380px" width="380px" align="right" alt="Computador iuriCode">
 
+<img align="right" width="100" src="https://i2.wp.com/allhtaccess.info/wp-content/uploads/2018/03/programming.gif?fit=1281%2C716&ssl=1" />
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=niic-noguee&theme=tokyonight&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
-</p>
+```js
+import Desenvolvedor from 'niiccode.js';
 
-<div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=niic-noguee&show_icons=true&count_private=true&hide_border=true&title_color=FFFFFF&icon_color=2739AB&text_color=808080&bg_color=0d1117" alt="Nicolly Nogueira github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=niic-noguee&layout=compact&hide_border=true&title_color=FFFFFF&text_color=808080&bg_color=0d1117" />
-</div>
-
-
-<div align="center"> 
-<a href="https://www.instagram.com/niccode.js/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>
-<a href = "mailto:niicolly7nogueira@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-<a href="https://www.linkedin.com/in/nic-nogue" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" target="_blank"></a> 
+class SobreMim extends Desenvolvedor {
+  nome = 'Nicolly';
+  área = 'fullstack';
+  curso = 'Análise e desenvolvimento de sistemas';
+  faculdade = 'IFCE';
+}
+```
+## 🚀 Skills 
+<div align="left">
+  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
  </div>
- 
- ### Skills:
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
+## 🌐 DevOps
+<div align="left"> 
+  <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" />
+ </div>
 
-### Studying in this moment:
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+## 💼 Ferramentas 
+
+<div align="left"> 
+ <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+ <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" />
+</div>
+  
+## 📱 Redes sociais:
+<div align="left"> 
+  <a href="https://www.instagram.com/niccode.js/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/nic-nogue" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white">
+ </div>
 
 <div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>  
