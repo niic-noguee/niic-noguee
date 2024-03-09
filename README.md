@@ -44,11 +44,20 @@ class SobreDev extends Dev {
   <a href="" target="_blank"><img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white"></a>
  </div>
 
+## ⚙️ GitHub Analytics
 <div align="center">
-<br><p align="centre"><b>Visitors Count</b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{niic-noguee}/count.svg" /></p> 
-<br>
-</div>
+ <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=niic-noguee&theme=tokyonight&rank_icon=defaut&include_all_commits=true" />
+ <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=niic-noguee&theme=tokyonight&show_icons=true&hide_border=true&border_radius=10" />
+ <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=niic-noguee&theme=tokyonight&utcOffset=8" />
+ <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=niic-noguee&theme=tokyonight"/>
+ <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=niic-noguee&theme=tokyonight&card_width=500px" />
 
+  
+  ### Visitors Count
+  <div>
+    <img src="https://profile-counter.glitch.me/{niic-noguee}/count.svg" /> 
+  </div>
+
+</div>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=31055B&height=120&section=footer"/>
