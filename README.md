@@ -7,13 +7,12 @@
 <img align="right" width="100" src="https://i2.wp.com/allhtaccess.info/wp-content/uploads/2018/03/programming.gif?fit=1281%2C716&ssl=1" />
 
 ```js
-import Desenvolvedor from 'niiccode.js';
+import Dev from 'niiccode.js';
 
-class SobreMim extends Desenvolvedor {
+class SobreDev extends Dev {
   nome = 'Nicolly';
-  área = 'fullstack';
   curso = 'Análise e desenvolvimento de sistemas';
-  faculdade = 'IFCE';
+  faculdade = 'IFCE Campus avançado de Jaguaruana - CE';
 }
 ```
 ## 📋 Languages 
