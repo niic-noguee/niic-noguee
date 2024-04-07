@@ -9,10 +9,10 @@
 ```js
 import Dev from 'niiccode.js';
 
-class SobreDev extends Dev {
-  nome = 'Nicolly';
-  curso = 'Análise e desenvolvimento de sistemas';
-  faculdade = 'IFCE Campus avançado de Jaguaruana - CE';
+class aboutDev extends Dev {
+  name = 'Nicolly';
+  training = 'Análise e desenvolvimento de sistemas';
+  faculty = 'IFCE Campus avançado de Jaguaruana - CE';
 }
 ```
 ## 📋 Languages 
