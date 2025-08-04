@@ -9,7 +9,6 @@ import Dev from 'Github';
 class AboutDev extends Dev {
   username = 'niic-noguee';
   pronouns = 'Ela/Dela';
-  hobbies = ['🎮 Minecraft', '🎬 Cinema', '📚 Ler'];
   currentFocus = 'Aprimorando o Front-end e mergulhando no universo Back-end.';
   interests = '🐧 Linux & Open Source';
 }
