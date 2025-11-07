@@ -2,7 +2,7 @@
 
 # Nicolly Nogueira 🍇
 
-Estudante de Análise e Desenvolvimento de Sistemas no IFCE (Campus Jaguaruana), entusiasta de Linux e atualmente mergulhando em cibersegurança e hacking.
+Estudante de Análise e Desenvolvimento de Sistemas no IFCE, entusiasta de Linux e atualmente mergulhando em cibersegurança.
 
 
 ```js
