@@ -2,7 +2,7 @@
 
 # Nicolly Nogueira 🍇
 
-Estudante de Análise e Desenvolvimento de Sistemas no IFCE, entusiasta de Linux e atualmente mergulhando em cibersegurança.
+Olá, seja bem-vindo(a)!
 
 
 ```js
@@ -13,8 +13,6 @@ class AboutDev extends Dev {
   username = 'niic-noguee';
   pronouns = 'Ela/Dela';
   location = 'CE, Brasil 🇧🇷';
-  system = 'Arch Linux + Hyprland 🐧';
-  shell = 'Fish + Starship 🐟';
 }
 
 ```
